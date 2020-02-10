@@ -1,6 +1,12 @@
 [submodule "BackEnd"]
 	path = BackEnd
-	url = https://github.com/Rgnwld/whereIsMyFood.git
+	url = https://github.com/Rgnwld/whereIsMyFood_Backend.git
 [submodule "FrontEnd"]
 	path = FrontEnd
-	url = https://github.com/Rgnwld/whereIsMyFood.git
+	url = https://github.com/Rgnwld/whereIsMyFood._Front.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Rgnwld/whereIsMyFood_Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Rgnwld/whereIsMyFood_Frontend.git
